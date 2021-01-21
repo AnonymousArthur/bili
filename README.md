@@ -1,8 +1,11 @@
 # bili
 Quick JS implementation to reduce work of [iawia002/annie](https://github.com/iawia002/annie) usage (annie is a downloader for anime website such like Bilibili)
 
-# Before Start
+# Before You Start
 Please install [iawia002/annie](https://github.com/iawia002/annie) in your environment before you proceed. You can find the installation guide in its GitHub README.
+
+# Installation
+Simply run `npm install -g @anonymous.arthur/bili`
 
 # Usage
 
